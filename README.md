@@ -230,9 +230,9 @@ and the text in the header, if you want it to be different from your
 name. Example entries in `config.yaml`:
 
 ```yaml
-title: "My New Hugo Site"
+title: "Wingo's WebSite"
 params:
-  author: "John Doe"
+  author: "Wingo"
   siteHeading: "a header title"
 ```
 
@@ -455,8 +455,8 @@ You decide what social media to include in your site configuration file under
 ```yaml
 params:
   social:
-    github: <your github username>
-    email: <email address>
+    github: <wingow>
+    email: <wingow333@gmail.com>
 ```
 
 For all available social icons, see the `data/notrack/social.yaml` file. There

@@ -18,8 +18,8 @@ shipwrecked.
     {{% /resume-section %}}
     {{< resume-section title="Experience" >}}
         {{< resume-entry what="Swedish Ambassador to France"
-                        where="Paris"
-                        when="1634–1645" >}}
+                        where="China"
+                        when="1998" >}}
             <ul>
                 <li>Appointed directly by Swedish regent Axel Oxelstierna.</li>
                 <li>Helped negotiate a treaty which led to the end of the Thirty
@@ -27,7 +27,7 @@ shipwrecked.
             </ul>
         {{< /resume-entry >}}
         {{% resume-entry what="Freelance Academic"
-                         when="1621–1631"
+                         when="198"
                          where="Mainly working from France" %}}
 * I have three major publications from my time in France.
 * The most well-received publication was *On the law of war and
