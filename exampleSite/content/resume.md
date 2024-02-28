@@ -17,7 +17,7 @@ prestigious academic and diplomatic roles and finally by barely surviving being
 shipwrecked.
     {{% /resume-section %}}
     {{< resume-section title="Experience" >}}
-        {{< resume-entry what="Swedish Ambassador to France"
+        {{< resume-entry what="INFJ"
                         where="China"
                         when="1998" >}}
             <ul>

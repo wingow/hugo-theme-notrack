@@ -7,10 +7,8 @@ menu:
     weight: 200
 ---
 
-# What I look like
+# What I have created
 
-Here are some pictures of pictures or statues of me, all in the public domain by
-either age or by the use of Creative Commons CC0 license.
 
 {{< gallery-category >}}
     {{< gallery-photo fn="hugo1.jpg" caption="Clay figure of me" >}}

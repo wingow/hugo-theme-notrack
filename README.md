@@ -70,7 +70,7 @@ Here is a working `config.yaml`:
 ```yaml
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Lawyer Hugo Grotius"
+title = "Wingo"
 theme = "notrack"
 newContentEditor = "nvim"
 mainSections = ["blog"]
@@ -78,8 +78,8 @@ mainSections = ["blog"]
 paginate = 4
 
 [params]
-  author = "Hugo de Groot"
-  siteHeading = "Hugo Grotius" # defaults to author
+  author = "Wingo Wu"
+  siteHeading = "Wingo" # defaults to author
   favicon = "hugo_grotius.png" # Adds a small icon next to the page title in a tab
   showBlogLatest = true
   mainSections = ["blog"]
@@ -89,12 +89,9 @@ paginate = 4
   footer = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
   [params.social]
-    github = "example"
-    linkedin = "example"
-    email = "example@example.com"
-    mastodon = "example"
-    medium = "example"
-    keybase = "example"
+    github = "wingow"
+    email = "wingow333@gmail.com"
+    medium = "wingow333"
 
 [taxonomies]
   year = "year"
